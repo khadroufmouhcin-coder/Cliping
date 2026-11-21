@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Viral Clipper</string>
+    <string name="nav_clip_studio">Clip Studio</string>
+    <string name="nav_live_monitor">Live Hype</string>
+    <string name="nav_clips_vault">Vault</string>
+    <string name="studio_tagline">Convert long videos &amp; live streams into 9:16 viral shorts</string>
+    <string name="default_hook_video">WAIT FOR IT!</string>
+    <string name="default_hook_live">INSANE MOMENT!</string>
+    <string name="youtube_url_hint">https://www.youtube.com/watch?v=...</string>
+    <string name="live_url_hint">https://www.youtube.com/live/...</string>
+    <string name="empty_vault_title">No Viral Clips Yet</string>
+    <string name="empty_vault_subtitle">Pick a video or monitor a live stream to render your first 9:16 short with AI auto-captions.</string>
+</resources>

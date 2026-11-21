@@ -1,0 +1,8 @@
+{
+  "name": "Remix Viral Clipper",
+  "description": "Convert videos and live streams into vertical 9:16 short clips with AI auto-captions, peak viral moment detection, hook headers, and live hype monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
